@@ -1,0 +1,24 @@
+.form {
+    padding: 5px;
+    border-bottom: 1px solid black;
+}
+.form-input{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 5px;
+    border: 1px solid black;
+    text-indent: 5px;
+    margin: 8px;
+    padding: 5px;
+}
+.add-btn {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 5px;
+    min-width: 80px;
+    margin: 8px;
+    padding: 5px;
+    cursor       : pointer;
+    background-color: #20be80;
+}
+.add-btn:hover {
+    color: white;
+}
